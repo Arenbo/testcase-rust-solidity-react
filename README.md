@@ -3,7 +3,7 @@
 This project is consists of 3 parts:
 
 ## Frontend (Javascript)
-You can interact throung basic UI with deployed contracts
+You can interact through basic UI with deployed contracts
 - React
 - Web3
 
